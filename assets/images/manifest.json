@@ -319,6 +319,22 @@
       "width": 600
     }
   },
+  "assets/originals/まどかとほむら_Original.png": {
+    "main": {
+      "bytes": 232158,
+      "height": 2048,
+      "path": "assets/images/まどかとほむら_Original-2048.webp",
+      "width": 1536
+    },
+    "original_bytes": 1788005,
+    "sha256": "650d36e9226fa9f87f6c8fea2d3a37d8ea1ab1dbf4d5fdc6acfa4065209739e4",
+    "thumbnail": {
+      "bytes": 73338,
+      "height": 800,
+      "path": "assets/images/まどかとほむら_Original-800.webp",
+      "width": 600
+    }
+  },
   "assets/originals/ツインバニー_Original-2.png": {
     "main": {
       "bytes": 262144,
