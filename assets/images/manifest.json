@@ -431,6 +431,22 @@
       "width": 600
     }
   },
+  "assets/originals/無題231_20261125160914_Original.png": {
+    "main": {
+      "bytes": 139916,
+      "height": 1365,
+      "path": "assets/images/無題231_20261125160914_Original-2048.webp",
+      "width": 2048
+    },
+    "original_bytes": 1410654,
+    "sha256": "2db95f5d82fb67dc1bb334448061b43030d31437b80aa138495587ef7456caa2",
+    "thumbnail": {
+      "bytes": 49890,
+      "height": 533,
+      "path": "assets/images/無題231_20261125160914_Original-800.webp",
+      "width": 800
+    }
+  },
   "assets/originals/誕生日2026ミク_Original.png": {
     "main": {
       "bytes": 278606,
