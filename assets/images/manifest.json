@@ -383,6 +383,22 @@
       "width": 600
     }
   },
+  "assets/originals/ロケット団_Original.png": {
+    "main": {
+      "bytes": 254662,
+      "height": 1920,
+      "path": "assets/images/ロケット団_Original-2048.webp",
+      "width": 1080
+    },
+    "original_bytes": 1407002,
+    "sha256": "a4761ab2acf774be08591c22781c9b4ebbf9c5ca7125955940d9d48b689fe447",
+    "thumbnail": {
+      "bytes": 73752,
+      "height": 800,
+      "path": "assets/images/ロケット団_Original-800.webp",
+      "width": 450
+    }
+  },
   "assets/originals/歌姫失格_Original.png": {
     "main": {
       "bytes": 268222,
