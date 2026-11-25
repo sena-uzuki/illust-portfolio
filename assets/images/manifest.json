@@ -431,6 +431,22 @@
       "width": 600
     }
   },
+  "assets/originals/無題162_20261125162602_Original.png": {
+    "main": {
+      "bytes": 250912,
+      "height": 2048,
+      "path": "assets/images/無題162_20261125162602_Original-2048.webp",
+      "width": 1536
+    },
+    "original_bytes": 2825510,
+    "sha256": "f4ed1b7a936f7c8f858a47757760141c86eadeda305da02b07a8007d3ad087a9",
+    "thumbnail": {
+      "bytes": 76350,
+      "height": 800,
+      "path": "assets/images/無題162_20261125162602_Original-800.webp",
+      "width": 600
+    }
+  },
   "assets/originals/無題231_20261125160914_Original.png": {
     "main": {
       "bytes": 139916,
