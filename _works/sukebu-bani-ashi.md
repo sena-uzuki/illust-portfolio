@@ -1,5 +1,5 @@
 ---
-title: すけぶバニー足
+title: skebご依頼
 slug: sukebu-bani-ashi
 image: /assets/originals/sukebu-bani-ashi.png
 category: WORKS
