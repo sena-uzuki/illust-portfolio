@@ -184,7 +184,7 @@ function renderGallery() {
   sizeAllGridCards();
   if (emptyMsg) emptyMsg.hidden = visibleWorks.length > 0;
   var label = activeCat === "all" ? "ALL WORKS" : CAT_LABEL[activeCat];
-  if (galleryTitle) galleryTitle.textContent = activeCat === "all" ? "WORKS" : CAT_LABEL[activeCat];
+  if (galleryTitle) galleryTitle.textContent = activeCat === "all" ? "ALL" : CAT_LABEL[activeCat];
   if (galleryCount) galleryCount.textContent = label + " · " + visibleWorks.length + " ITEMS";
 }
 
