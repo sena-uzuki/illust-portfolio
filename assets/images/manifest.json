@@ -351,6 +351,22 @@
       "width": 600
     }
   },
+  "assets/originals/ゴーストミク_Original.png": {
+    "main": {
+      "bytes": 214506,
+      "height": 2048,
+      "path": "assets/images/ゴーストミク_Original-2048.webp",
+      "width": 1536
+    },
+    "original_bytes": 1657726,
+    "sha256": "170cca8299aa81396d27e22863e78eb81cba0799741ded82e50b62e12ff0a76a",
+    "thumbnail": {
+      "bytes": 68976,
+      "height": 800,
+      "path": "assets/images/ゴーストミク_Original-800.webp",
+      "width": 600
+    }
+  },
   "assets/originals/ツインバニー_Original-2.png": {
     "main": {
       "bytes": 262144,
