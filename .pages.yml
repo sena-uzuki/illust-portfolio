@@ -39,11 +39,6 @@ content:
         type: image
         options:
           media: images
-      - name: thumbnail
-        label: サムネイル画像（通常は空でOK・自動生成されます）
-        type: image
-        options:
-          media: images
       - name: category
         label: カテゴリー
         type: select
