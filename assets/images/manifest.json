@@ -159,6 +159,22 @@
       "width": 600
     }
   },
+  "assets/originals/mudai-139.png": {
+    "main": {
+      "bytes": 280878,
+      "height": 2048,
+      "path": "assets/images/mudai-139-2048.webp",
+      "width": 1536
+    },
+    "original_bytes": 2361113,
+    "sha256": "6af742dab7ae2c486984207904ebcb575c8276b6397d007612270a6afd329e18",
+    "thumbnail": {
+      "bytes": 93584,
+      "height": 800,
+      "path": "assets/images/mudai-139-800.webp",
+      "width": 600
+    }
+  },
   "assets/originals/mudai-142.jpg": {
     "main": {
       "bytes": 203198,
@@ -172,6 +188,22 @@
       "bytes": 75660,
       "height": 800,
       "path": "assets/images/mudai-142-800.webp",
+      "width": 600
+    }
+  },
+  "assets/originals/mudai-151.png": {
+    "main": {
+      "bytes": 196296,
+      "height": 2048,
+      "path": "assets/images/mudai-151-2048.webp",
+      "width": 1536
+    },
+    "original_bytes": 1281861,
+    "sha256": "f73b431b126a87a97a204c35dc4553988a292f292890f8438044bfa866513179",
+    "thumbnail": {
+      "bytes": 71108,
+      "height": 800,
+      "path": "assets/images/mudai-151-800.webp",
       "width": 600
     }
   },
@@ -284,6 +316,38 @@
       "bytes": 106596,
       "height": 800,
       "path": "assets/images/sonic-800.webp",
+      "width": 600
+    }
+  },
+  "assets/originals/sukebu-bani-ashi.png": {
+    "main": {
+      "bytes": 213086,
+      "height": 2048,
+      "path": "assets/images/sukebu-bani-ashi-2048.webp",
+      "width": 1536
+    },
+    "original_bytes": 4448431,
+    "sha256": "21fb065cc41d00c54967ff324f5d7c9b31d2c3b95534e80e83bde936e4eebe4a",
+    "thumbnail": {
+      "bytes": 64430,
+      "height": 800,
+      "path": "assets/images/sukebu-bani-ashi-800.webp",
+      "width": 600
+    }
+  },
+  "assets/originals/sukebu-bureza.png": {
+    "main": {
+      "bytes": 179564,
+      "height": 2048,
+      "path": "assets/images/sukebu-bureza-2048.webp",
+      "width": 1536
+    },
+    "original_bytes": 5460261,
+    "sha256": "c02245f6e77bd8b29143ac95d70676e1d442fa39a22eb4a7e17cc5842bedd03f",
+    "thumbnail": {
+      "bytes": 52070,
+      "height": 800,
+      "path": "assets/images/sukebu-bureza-800.webp",
       "width": 600
     }
   },
