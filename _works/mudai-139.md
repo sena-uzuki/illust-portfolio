@@ -1,6 +1,6 @@
 ---
-title: 無題139
-slug: mudai-139
+title: †Confessions of a Rottengirl†
+slug: Confessions miku
 image: /assets/originals/mudai-139.png
 category: FAN ART
 year: 2025.2
