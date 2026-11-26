@@ -1,5 +1,5 @@
 ---
-title: モニタリング2
+title: Best Friend
 slug: monitoring-2
 image: /assets/originals/monitoring-2.jpg
 category: FAN ART
